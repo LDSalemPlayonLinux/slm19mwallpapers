@@ -2,7 +2,7 @@
 
 Wallpapers criados por mim para personalizar seu desktop.
 
-Programas que utilizo: GIMP, Inkscape, Krita, PhotoCraft e VectorCraft
+Programas que utilizo nas minhas criações: GIMP, Inkscape, Krita, PhotoCraft e VectorCraft.
 
 ## Wallpapers Linux
 
