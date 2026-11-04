@@ -28,6 +28,12 @@ Programas que utilizo nas minhas criações: GIMP, Inkscape, Krita, PhotoCraft e
 
 ![Wallpaper Wallpaper Xfce 1](preview/Desktop-Wallpaper-Xfce-1-1920x1080.png)
 
+**Título:** Xfce 1<br>
+**Sistema Operacional:** Linux Mint<br>
+**Ferramenta:** Inkscape<br>
+**Largura:** 1920 pixels<br>
+**Altura:** 1080 pixels
+
 [Baixar](https://github.com/LDSalemPlayonLinux/slm19mwallpapers/raw/refs/heads/master/Linux/Wallpaper-Xfce-1-1920x1080.zip)
 
 ## Wallpapers Halloween
