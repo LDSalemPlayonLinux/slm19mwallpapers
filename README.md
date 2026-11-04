@@ -8,9 +8,21 @@ Programas que utilizo nas minhas criações: GIMP, Inkscape, Krita, PhotoCraft e
 
 ![Wallpaper I Love Linux 1](preview/Desktop-Wallpaper-I-Love-Linux-1-1920x1080.png)
 
+Título: I Love Linux 1
+Sistema Operacional: Pop!_OS
+Ferramenta: Inkscape
+Largura: 1920 pixels
+Altura: 1080 pixels
+
 [Baixar](https://github.com/LDSalemPlayonLinux/slm19mwallpapers/raw/refs/heads/master/Linux/Wallpaper-I-Love-Linux-1-1920x1080.zip)
 
 ![Wallpaper Tux Linux 1](preview/Desktop-Tux-Linux-1-1920x1080.png)
+
+Título: Tux Linux 1
+Sistema Operacional: Pop!_OS
+Ferramenta: Inkscape
+Largura: 1920 pixels
+Altura: 1080 pixels
 
 [Baixar](https://github.com/LDSalemPlayonLinux/slm19mwallpapers/raw/refs/heads/master/Linux/Wallpaper-Tux-Linux-1-1920x1080.zip)
 
